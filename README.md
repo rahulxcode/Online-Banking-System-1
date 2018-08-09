@@ -1,6 +1,6 @@
 #Online-Banking-system
 
-Online Banking System in PHP & MySQL
+Online Banking System has been designed in PHP & MySQL.
 
 Authors:
     
